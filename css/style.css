@@ -1,0 +1,10 @@
+.content{
+    width: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.info-card{
+    padding: 10px;
+}
